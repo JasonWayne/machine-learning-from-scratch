@@ -55,3 +55,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+
+# added by myself
+doc-similarity/output*
