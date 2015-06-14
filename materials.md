@@ -12,3 +12,6 @@
 [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 
 [Neural Network implementation](https://github.com/peterroelants/peterroelants.github.io/tree/master/notebooks/neural_net_implementation)
+
+## Good Blog Posts
+[Kaggle Ensembling Guide](http://mlwave.com/kaggle-ensembling-guide/)
